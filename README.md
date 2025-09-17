@@ -10,6 +10,22 @@ SoundSphere is a fictional European distributor of audio equipment. The company 
 
 ---
 
+## Repository Structure
+
+```
+audio_sales_analysis/
+│
+├── data/                      
+│   ├── orders/                         # Contains dated folders with CSVs for each manager
+│   └── products/                       # Product categories with their respective CSVs
+│
+├── usd_rate.txt                        # USD to EUR exchange rates per day
+├── audio_sales_analysis.ipynb          # Full analysis notebook
+├── README.md
+```
+
+---
+
 ## Project Goals
 
 - **Data Consolidation**: Merging scattered data into a unified format.
