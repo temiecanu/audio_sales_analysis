@@ -53,23 +53,6 @@ audio_sales_analysis/
 
 ---
 
-## Libraries Used
-
-The following Python libraries were used for data processing and visualization:
-
-- os
-- pandas
-- seaborn
-- plotly.express
-- plotly.subplots
-- plotly.graph_objects
-- matplotlib.pyplot
-- numpy
-- datetime
-- re
-
----
-
 ## Key Insights
 
 - **Sales Dynamics**: Analyzed revenue, average receipts, and order counts for trends and anomalies.
